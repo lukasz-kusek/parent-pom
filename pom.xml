@@ -44,7 +44,7 @@
 
     <properties>
 
-        <java-api.version>1.7</java-api.version>
+        <java-api.version>1.8</java-api.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.test.skip>false</maven.test.skip>
         <skipTests>false</skipTests>
